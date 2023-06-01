@@ -159,4 +159,5 @@ C:\Users\brad\source\repos\TaskPlanner.UnitTests\obj\Debug\net7.0\refint\TaskPla
 C:\Users\brad\source\repos\TaskPlanner.UnitTests\obj\Debug\net7.0\TaskPlanner.UnitTests.pdb
 C:\Users\brad\source\repos\TaskPlanner.UnitTests\obj\Debug\net7.0\TaskPlanner.UnitTests.genruntimeconfig.cache
 C:\Users\brad\source\repos\TaskPlanner.UnitTests\obj\Debug\net7.0\ref\TaskPlanner.UnitTests.dll
-C:\Users\brad\source\repos\TaskPlanner.UnitTests\bin\Debug\net7.0\nunit3.config
+C:\Users\brad\source\repos\TaskPlanner.UnitTests\bin\Debug\net7.0\App.config
+C:\Users\brad\source\repos\TaskPlanner.UnitTests\bin\Debug\net7.0\TaskPlanner.UnitTests.dll.config
