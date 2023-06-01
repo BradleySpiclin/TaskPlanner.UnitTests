@@ -10,8 +10,6 @@ C:\Users\brad\source\repos\TaskPlanner.UnitTests\bin\Debug\net7.0\TaskPlanner.de
 C:\Users\brad\source\repos\TaskPlanner.UnitTests\bin\Debug\net7.0\TaskPlanner.runtimeconfig.json
 C:\Users\brad\source\repos\TaskPlanner.UnitTests\bin\Debug\net7.0\appsettings.Development.json
 C:\Users\brad\source\repos\TaskPlanner.UnitTests\bin\Debug\net7.0\appsettings.json
-C:\Users\brad\source\repos\TaskPlanner.UnitTests\bin\Debug\net7.0\TaskPlanner.UnitTests\obj\project.assets.json
-C:\Users\brad\source\repos\TaskPlanner.UnitTests\bin\Debug\net7.0\TaskPlanner.UnitTests\obj\TaskPlanner.UnitTests.csproj.nuget.dgspec.json
 C:\Users\brad\source\repos\TaskPlanner.UnitTests\bin\Debug\net7.0\TaskPlanner.staticwebassets.runtime.json
 C:\Users\brad\source\repos\TaskPlanner.UnitTests\bin\Debug\net7.0\TaskPlanner.exe
 C:\Users\brad\source\repos\TaskPlanner.UnitTests\bin\Debug\net7.0\testhost.exe
@@ -21,8 +19,6 @@ C:\Users\brad\source\repos\TaskPlanner.UnitTests\bin\Debug\net7.0\nunit.engine.d
 C:\Users\brad\source\repos\TaskPlanner.UnitTests\bin\Debug\net7.0\nunit.engine.api.dll
 C:\Users\brad\source\repos\TaskPlanner.UnitTests\bin\Debug\net7.0\nunit.engine.core.dll
 C:\Users\brad\source\repos\TaskPlanner.UnitTests\bin\Debug\net7.0\testcentric.engine.metadata.dll
-C:\Users\brad\source\repos\TaskPlanner.UnitTests\bin\Debug\net7.0\App.config
-C:\Users\brad\source\repos\TaskPlanner.UnitTests\bin\Debug\net7.0\TaskPlanner.UnitTests.dll.config
 C:\Users\brad\source\repos\TaskPlanner.UnitTests\bin\Debug\net7.0\TaskPlanner.UnitTests.deps.json
 C:\Users\brad\source\repos\TaskPlanner.UnitTests\bin\Debug\net7.0\TaskPlanner.UnitTests.runtimeconfig.json
 C:\Users\brad\source\repos\TaskPlanner.UnitTests\bin\Debug\net7.0\TaskPlanner.UnitTests.dll
@@ -163,3 +159,4 @@ C:\Users\brad\source\repos\TaskPlanner.UnitTests\obj\Debug\net7.0\refint\TaskPla
 C:\Users\brad\source\repos\TaskPlanner.UnitTests\obj\Debug\net7.0\TaskPlanner.UnitTests.pdb
 C:\Users\brad\source\repos\TaskPlanner.UnitTests\obj\Debug\net7.0\TaskPlanner.UnitTests.genruntimeconfig.cache
 C:\Users\brad\source\repos\TaskPlanner.UnitTests\obj\Debug\net7.0\ref\TaskPlanner.UnitTests.dll
+C:\Users\brad\source\repos\TaskPlanner.UnitTests\bin\Debug\net7.0\nunit3.config
